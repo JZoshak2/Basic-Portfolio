@@ -53,6 +53,11 @@ li a:hover {
 	color: #aaa;
 }
 
+h1 a {
+	color: white;
+	text-decoration: none;
+}
+
 /* Main Content Styles */
 
 .main_content { /* Accounts for index, contact, and portfolio page main content area */
