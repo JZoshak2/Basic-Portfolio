@@ -49,6 +49,10 @@ li a {
 	font-size: 16px;
 }
 
+li a:hover {
+	color: #aaa;
+}
+
 /* Main Content Styles */
 
 .main_content { /* Accounts for index, contact, and portfolio page main content area */
@@ -159,6 +163,10 @@ input, textarea {
 	margin: 5px;
 }
 
+textarea {
+	border: 1px solid #ddd;
+}
+
 .form_header {
 	color: #777;
 	font-family: "Arial", "Helvetica Neue", "Helvetica", sans-serif;
@@ -180,6 +188,10 @@ input, textarea {
 	font-family: "Arial", "Helvetica Neue", "Helvetica", sans-serif;
 	border: none;
 	border-radius: 2px;
+}
+
+.button:hover {
+	background-color: #5bbbb6;
 }
 
 /* Portfolio Styles */
